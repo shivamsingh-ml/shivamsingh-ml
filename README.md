@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shivam Singh</h1>
 <h3 align="center">Aspiring Data Scientist and ML Engineer</h3>
 
-- 🔭 I’m currently working on [Transformers From Scratch](https://github.com/shivamsingh-ml/Transformers-From-Scratch)
+- 🔭 I’m currently working on [Named-Entity-Recognition](https://github.com/shivamsingh-ml/Named-Entity-Recognition)
 
 - 🌱 I’m currently learning **RAG, LLM Finetuning, Prompt Engineering....**
 
