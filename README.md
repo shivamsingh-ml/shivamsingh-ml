@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Shivam Singh</h1>
 <h3 align="center">Aspiring Data Scientist and ML Engineer</h3>
 
-- 🔭 I’m currently working on [Named-Entity-Recognition](https://github.com/shivamsingh-ml/Named-Entity-Recognition)
+- 🔭 I’m currently working on [Production Ready RAG Chatbot](https://github.com/shivamsingh-ml/prod-rag-chatbot)
 
-- 🌱 I’m currently learning **RAG, LLM Finetuning, Prompt Engineering....**
+- 🌱 I’m currently learning **Advanced RAG, LLM Finetuning, MCP Servers....**
 
 - 👨‍💻 All of my projects are available at [https://github.com/shivamsingh-ml](https://github.com/shivamsingh-ml)
 
